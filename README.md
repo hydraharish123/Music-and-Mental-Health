@@ -1,9 +1,3 @@
-
-
-Here is a draft README for your Music and Mental Health Exploratory Data Analysis (EDA) project. Let me know if you'd like to customize any section further!
-
----
-
 # Music and Mental Health Exploratory Data Analysis (EDA)
 
 Welcome to the **Music and Mental Health Exploratory Data Analysis** project! This repository investigates the relationships between music preferences, listening habits, and mental health outcomes such as anxiety, depression, insomnia, and OCD.
